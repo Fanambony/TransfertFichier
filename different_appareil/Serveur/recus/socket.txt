@@ -1,0 +1,46 @@
+transfert de fichier
+client FTP(fileTransfertProtocol)
+comme serveur web
+
+protocole 
+serveur	principale		
+
+serveur 1
+
+serveur 2
+
+
+navigateur web(postman)
+
+
+CHAT
+TRANSFERT DE FICHIER
+SGBD
+SERVEUR WEB
+NAVIGATEUR WEB
+JEU EN LIGNE
+ACCES A DISTANCE
+STREAMING AUDIO
+STREAMING VIDEO
+PARK INFORMATIQUE
+DHCP SERVEUR
+
+STREAMING MULTIEMEDIA(protocole dlna)
+
+Gitlab
+Github
+GTI
+gestionnaire de version
+
+
+repostory name
+nom projet
+
+private
+
+
+
+github
+sign up
+Fanambony
+mdp 19052002
